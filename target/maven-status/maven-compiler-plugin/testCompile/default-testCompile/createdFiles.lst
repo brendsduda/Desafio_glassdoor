@@ -1,0 +1,6 @@
+util\Utils.class
+util\TestRule.class
+pages\CadastroFuncionalidade.class
+pages\CadastroPageElementMap.class
+steps\CadastroSteps.class
+tests\RunTest.class
