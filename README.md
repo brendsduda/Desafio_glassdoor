@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto criado em Java com Selenium, Cucumber e JUnit 5 para testar a funcionalidade de login e cadastro de um site de banco fictício chamado <a href=“https://bugbank.netlify.app/“>BugBank</a>. O objetivo é garantir que o login e o cadastro funcionem corretamente e que o usuário possa acessar sua conta com segurança, além de transferir dinheiro entre contas e validar os saldos corretos.
+Este é um projeto criado em Java com Selenium, Cucumber e JUnit 5 para testar a funcionalidade de login e cadastro de um site de banco fictício chamado [BugBank](https://bugbank.netlify.app/). O objetivo é garantir que o login e o cadastro funcionem corretamente e que o usuário possa acessar sua conta com segurança, além de transferir dinheiro entre contas e validar os saldos corretos.
 
 ## Instalação
 
